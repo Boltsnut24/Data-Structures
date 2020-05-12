@@ -9,18 +9,18 @@ Answer the following questions for each of the data structures you implemented a
     constant
 
 3. What is the runtime complexity of `len`?
-
+    constant
 
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
-    constant
+    constant, assuming we have a tail pointer
 
 2. What is the runtime complexity of `dequeue`?
     constant
 
 3. What is the runtime complexity of `len`?
-
+    constant
 ## Binary Search Tree
 
 1. What is the runtime complexity of `insert`? 
