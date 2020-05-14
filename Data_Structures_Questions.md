@@ -3,27 +3,32 @@ Answer the following questions for each of the data structures you implemented a
 ## Stack
 
 1. What is the runtime complexity of `push`?
+    constant
 
 2. What is the runtime complexity of `pop`?
+    constant
 
 3. What is the runtime complexity of `len`?
+    constant
 
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
+    constant, assuming we have a tail pointer
 
 2. What is the runtime complexity of `dequeue`?
+    constant
 
 3. What is the runtime complexity of `len`?
-
+    constant
 ## Binary Search Tree
 
 1. What is the runtime complexity of `insert`? 
-
+    log (n)
 2. What is the runtime complexity of `contains`?
-
+    log (n)
 3. What is the runtime complexity of `get_max`? 
-
+    log (n)
 ## Heap
 
 1. What is the runtime complexity of `_bubble_up`?
